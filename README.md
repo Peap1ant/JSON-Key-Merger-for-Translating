@@ -16,6 +16,8 @@ Original JSON is newer version of lang file, and Target JSON is old version of l
 
 By select JSON and press button at GUI, It gonna make new JSON contains translations + new keys from Original JSON which Target JSON haven't.
 
+Also there is chect box for delete missing key(unused key) at Target file for better JSON, check if you want
+
 here is example:
 
 Original JSON
